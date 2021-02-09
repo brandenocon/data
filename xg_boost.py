@@ -7,8 +7,7 @@
     (trees) in the model, and then visualizing the result as a 
     bar graph, with the features ordered according to how many 
     times they appear. XGBoost has a plot_importance() function 
-    that allows you to do exactly this, and you'll get a chance 
-    to use it in this exercise!
+    that allows you to do exactly this.
 """
 import pandas as pd
 import numpy as np
